@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python3, flask, mysql, redis, mongo, aws, docker, c," />
+  </a>
+</p>
+
+
 check me out on ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 skills:
