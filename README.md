@@ -54,5 +54,5 @@ Read me on Meedium ![Medium](https://img.shields.io/badge/Medium-12100E?style=fo
 
 📫 How to reach me: 
 write me here Kimothoibrahim@yahoo.com
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
