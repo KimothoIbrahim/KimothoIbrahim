@@ -86,3 +86,77 @@ Check out my pinned repositories below for more of my work! 👇
 ---
 
 ⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration opportunities.**
+
+
+
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+
+<p align="center">
+  🎓 Graduating Software Engineer | 🔬 Chemist turned Technologist | 🌐 Tech Enthusiast
+</p>
+
+---
+
+### 🌟 About Me
+
+- 🧑‍🎓 I'm a proud graduate of the **ALX Software Engineering Program**, with a passion for merging technology and science.
+- 🔬 Before transitioning into tech, I worked as a chemist. I aspire to one day craft a solution that unifies **chemistry** and **technology**.
+- 🌱 Currently, I’m deepening my expertise in Python, Flask, SQL, and DevOps.
+- 🚀 I thrive in creating solutions, like:
+  - A **Kivy-based mobile app** for shopkeepers.
+  - An **e-commerce platform for analytical chemistry tools**, where I contributed as a designer, backend engineer, and DevOps specialist.
+
+---
+
+### 🛠️ Tech Stack
+
+#### Programming & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Kivy](https://img.shields.io/badge/-Kivy-117A65?style=flat-square&logo=kivy&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 🌐 Featured Projects
+
+#### 🛍️ Analytical Chemistry E-commerce Platform
+- **Role**: Designer, Backend Engineer, DevOps Specialist
+- **Tech Stack**: Flask, SQL, Docker, Nginx
+- **Description**: Built an e-commerce platform to streamline the purchase of analytical chemistry tools.
+
+#### 📱 Kivy Mobile App for Shopkeepers
+- **Role**: Mobile Developer
+- **Tech Stack**: Kivy, Python
+- **Description**: Created a mobile application to simplify inventory management and sales tracking for shopkeepers.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/<your-linkedin>" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:<your-email>" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/<your-username>" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 🌱 Fun Fact
+I am always fascinated by how technology can revolutionize traditional fields like **chemistry**, and I aspire to bridge the gap between these domains.
+
+
