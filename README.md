@@ -1,7 +1,7 @@
-## Hello, I'm Kimotho
+# Kimotho
 
 <a href="#" target="_blank">Resume</a>
-
+------
 **Tech stack:**
 <p align="center">
   <a href="https://skillicons.dev">
