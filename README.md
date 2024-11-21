@@ -1,7 +1,7 @@
 # Sir. Kimotho  
-Prolific Python Engineer..
-..with Software Engineering training from ALX SE.
-I'm currentlky looking for new oppurtunities
+Prolific Python Engineer..  
+..with Software Engineering training from ALX SE.  
+I'm currently looking for new oppurtunities
 
 <br>
 <br>
