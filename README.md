@@ -49,6 +49,24 @@ Welcome to my GitHub! I'm Kimotho, a former chemist turned software engineer. As
 
 ---
 
+---
+
+### 🛠️ Tech Stack
+
+#### Programming & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Kivy](https://img.shields.io/badge/-Kivy-117A65?style=flat-square&logo=kivy&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
 ## 🏗️ Projects  
 
 ### **Kivy Shopkeeper App**  
@@ -106,23 +124,7 @@ Check out my pinned repositories below for more of my work! 👇
   - A **Kivy-based mobile app** for shopkeepers.
   - An **e-commerce platform for analytical chemistry tools**, where I contributed as a designer, backend engineer, and DevOps specialist.
 
----
 
-### 🛠️ Tech Stack
-
-#### Programming & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Kivy](https://img.shields.io/badge/-Kivy-117A65?style=flat-square&logo=kivy&logoColor=white)
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
 
 ### 🌐 Featured Projects
 
