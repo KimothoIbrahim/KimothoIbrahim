@@ -11,15 +11,14 @@ Prolific Python Engineer
 
 <br>
 
-<p>My Stack</p>
-
-<br>
-
+**My Stack**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,mysql,redis,nginx,aws,docker,c" />
   </a>
 </p>  
+
+<br>
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 <br>
