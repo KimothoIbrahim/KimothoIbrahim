@@ -6,7 +6,7 @@ Prolific Python Engineer
 <br>
 <br>
 <br>
-<a href="#" target="_blank">Resume</a>  
+## <a href="#" target="_blank">Resume</a>  
 <p align="center">Tech stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,7 +15,6 @@ Prolific Python Engineer
 </p>
 
 
-# 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 <br>
 <br>
