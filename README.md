@@ -2,7 +2,7 @@
 
 <a href="#" target="_blank">Resume</a>
 ------
-**Tech stack:**
+<p align=center'><b>Tech stack:</b></p>p
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,mysql,redis,nginx,aws,docker,c" />
