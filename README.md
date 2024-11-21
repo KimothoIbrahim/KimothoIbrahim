@@ -48,8 +48,8 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
-📫 How to reach me: 
-write me here Kimothoibrahim@yahoo.com
+📫 How to reach me:\n 
+write me here Kimothoibrahim@yahoo.com \n
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 </center>
