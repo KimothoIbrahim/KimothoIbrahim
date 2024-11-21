@@ -65,7 +65,7 @@ Prolific Python Engineer
 #
 📫 How to reach me:  
 
-write me here Kimothoibrahim@yahoo.com  
+Write me here: Kimothoibrahim@yahoo.com  
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
