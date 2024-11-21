@@ -60,7 +60,7 @@ Prolific Python Engineer
 <br>
 <br>
 ## Read me on Medium 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) https://medium.com/me/stories/public
   
 #
 📫 How to reach me:  
