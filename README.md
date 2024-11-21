@@ -8,12 +8,16 @@ Prolific Python Engineer
     <img src="https://skillicons.dev/icons?i=py,flask,mysql,redis,nginx,aws,docker,c" />
   </a>
 </p>
-
-
-
+<br>
+<br>
+<br>
+<br>
 # 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-  
+<br>
+<br>
+<br>
+<br>
 # Skills:
 ## Languages:
 
