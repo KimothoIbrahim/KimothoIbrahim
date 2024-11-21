@@ -9,6 +9,12 @@ Prolific Python Engineer
 
 **Read** <a href="#" target="_blank">Resume</a>  
 
+<br>
+
+<p>My Stack</p>
+
+<br>
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,mysql,redis,nginx,aws,docker,c" />
