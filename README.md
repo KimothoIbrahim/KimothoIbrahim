@@ -1,4 +1,5 @@
-# Sir. Kimotho
+# Sir. Kimotho  
+Prolific Python Engineer
 
 <a href="#" target="_blank">Resume</a>  
 <p align="center">Tech stack:</p>
@@ -18,7 +19,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  
+<br>
+<br>
+<br>
 ## Frameworks:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
