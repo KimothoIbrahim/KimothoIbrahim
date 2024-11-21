@@ -1,25 +1,15 @@
-## A true Builder - Chiselling in Python!
+## Hello, I'm Kimotho
 
+<a href="#" target="_blank">Resume</a>
+
+**Tech stack:**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,mysql,redis,nginx,aws,docker,c" />
   </a>
 </p>
 
-<!--
-**KimothoIbrahim/KimothoIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-
-⚡ Fun fact: Here is a huge NBA fun
-
+<center>
 ##### check me out on
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
@@ -63,3 +53,4 @@ Here are some ideas to get you started:
 write me here Kimothoibrahim@yahoo.com
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+</center>
