@@ -1,6 +1,7 @@
 # Sir. Kimotho  
-Prolific Python Engineer
-
+Prolific Python Engineer..
+..with Software Engineering training from ALX SE.
+I'm currentlky looking for new oppurtunities
 
 <br>
 <br>
@@ -70,7 +71,7 @@ Prolific Python Engineer
 <br>
 <br>
 <br>
-## Read me on Medium 
+## Me on Medium 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) https://medium.com/me/stories/public
   
 #
