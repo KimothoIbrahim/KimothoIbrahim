@@ -19,13 +19,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
 
-Welcome to my GitHub! I'm Kimotho, a former chemist turned software engineer. As a graduate of the **ALX Software Engineering Program**, I bring a unique blend of problem-solving skills, scientific curiosity, and technical expertise to every project I tackle. My journey into tech began with self-teaching before honing my skills at ALX, and I’m passionate about crafting elegant solutions and someday bridging the gap between **chemistry and technology**.
+Welcome to my GitHub! I'm Kimotho, a former chemist turned software engineer. As a **Software Engineer**, I bring a unique blend of problem-solving skills, scientific curiosity, and technical expertise to every project I tackle. My journey into tech began with self-teaching before honing my skills at ALX, and I’m passionate about crafting elegant solutions and someday bridging the gap between **chemistry and technology**.
 
 ---
 
 ## 🚀 About Me  
-- 🎓 **ALX Software Engineering Graduate** with a foundation in self-taught programming.  
-- ⚙️ Skilled in **Python**, **Flask**, **SQL**, and **DevOps**.  
+- 🎓 **ALX Software Engineering Graduate** with a sound foundational knowledge.  
+- ⚙️ Skilled **Python**, **JavaScript**, **express**, **Flask**, **SQL**, **MySQL** and **DevOps** ENGINEER.  
 - 📱 Experienced in mobile and web application development:  
   - Built a **Kivy mobile app** for shopkeepers.  
   - Designed and engineered an **e-commerce website for analytical chemistry** products.  
