@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm Kimotho, a former chemist turned software engineer. As
 
 ## 🚀 About Me  
 - 🎓 **ALX Software Engineering Graduate** with a sound foundational knowledge.  
-- ⚙️ Skilled **Python**, **JavaScript**, **express**, **Flask**, **SQL**, **MySQL** and **DevOps** ENGINEER.  
+- ⚙️ Skilled **Python**, **JavaScript**, **express**, **FastAPI**, **Flask**, **SQL**, **MySQL** and **DevOps** ENGINEER.  
 - 📱 Experienced in mobile and web application development:  
   - Built a **Kivy mobile app** for shopkeepers.  
   - Designed and engineered an **e-commerce website for analytical chemistry** products.  
